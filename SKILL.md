@@ -1,6 +1,6 @@
 ﻿---
 name: siemens-tia
-description: "西门子博图/博途 TIA Portal、STEP 7 V16/V17 自动化工程技能。Use when 用户提到 TIA、Portal、S7-1200、S7-1500、S7-300、S7-400、ET200、GSD/GSDML、PLCSIM、PLC、OB/FB/FC/DB/UDT、实例DB、多重实例、优化块访问、LAD、FBD、SCL、STL、GRAPH、硬件组态、PROFINET、PROFIBUS、HMI/WinCC、变量表、编译、下载、在线监控、诊断、变量声明、FB 多实例、UTF-8 BOM、#变量前缀、SCL 文件生成与导入、源文件、导入源。"
+description: "西门子博图 TIA Portal V16/V17 技能：SCL 代码生成、LAD/FBD/STL/GRAPH、PLCSIM 仿真、HMI/WinCC、PROFINET 诊断、FB 多实例、UTF-8 BOM、编译下载"
 ---
 
 # 西门子博图 TIA Portal 技能
