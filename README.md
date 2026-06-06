@@ -24,13 +24,13 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/siemens-tia-skill.git
+git clone https://github.com/JasonStaniu/siemens-tia-skill.git
 
 # 复制到 OpenClaw skills 目录
 cp -r siemens-tia-skill ~/.openclaw/skills/siemens-tia
 
 # 或直接克隆到 skills 目录
-git clone https://github.com/你的用户名/siemens-tia-skill.git ~/.openclaw/skills/siemens-tia
+git clone https://github.com/JasonStaniu/siemens-tia-skill.git ~/.openclaw/skills/siemens-tia
 ```
 
 安装后重启 Gateway 或开新会话即可生效。
