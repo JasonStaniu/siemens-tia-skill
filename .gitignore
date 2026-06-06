@@ -1,0 +1,6 @@
+# 临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
